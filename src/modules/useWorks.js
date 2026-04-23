@@ -41,7 +41,7 @@ export const useWorks = () => {
             type: "Video Editing",
             shortdescription: "A video about Esbjerg, made for school practice.",
             longdescription: "A video about Esbjerg, made for school practice. The video showcases the city's attractions and highlights its unique character. The project was made using Adobe Premiere Pro.",   
-            link: "https://youtu.be/dDXMGRXHCRw",
+            link: "https://youtu.be/YJp9r2SSCsU",
             time: "2025",
             imageURL: esbjerg,
         },
