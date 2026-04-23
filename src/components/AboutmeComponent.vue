@@ -14,6 +14,7 @@
           <div class="flex justify-start flex-col sm:flex-row text-center gap-4 w-full">
             <a :href="cvPdfHref" download="Vid_Richard_Hana_CV.pdf" class="text-primary border-2 border-primary p-2 bg-secondary rounded-md hover:bg-primary hover:text-secondary transition-colors duration-300"> Download CV </a>
             <a href="https://www.linkedin.com/in/vid-hana/" target="_blank" class="text-primary border-2 border-primary p-2 bg-secondary rounded-md hover:bg-primary hover:text-secondary transition-colors duration-300">LinkedIn</a>
+            <a href="https://github.com/PompChomp" target="_blank" class="text-primary border-2 border-primary p-2 bg-secondary rounded-md hover:bg-primary hover:text-secondary transition-colors duration-300">GitHub</a>
           </div>
         </div>
       </div>

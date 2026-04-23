@@ -16,7 +16,7 @@ const cvPdfHref = `${import.meta.env.BASE_URL}Vid_Richard_Hana_CV.pdf`;
     </nav>
   </header>
   <RouterView />
-  
+
 <footer>
   <div class="grid grid-cols-12 min-h-50 h-full bg-secondary  py-4 border-t-2 border-primary ">
     <div class="col-start-2 col-span-10 text-primary flex flex-col md:flex-row justify-between">
@@ -40,6 +40,12 @@ const cvPdfHref = `${import.meta.env.BASE_URL}Vid_Richard_Hana_CV.pdf`;
           </div>
           <div>
             <a :href="cvPdfHref" download="Vid_Richard_Hana_CV.pdf" class="text-primary hover:underline hover:text-tertiary duration-300"> Download CV </a>
+          </div>
+          <div>
+            <a href="https://github.com/PompChomp" class="text-primary hover:underline hover:text-tertiary duration-300">GitHub</a>
+          </div>
+          <div class="flex gap-4">
+            <a href="mailto:vidovid8@gmail.com" class="hover:text-tertiary hover:underline duration-300">Email</a>
           </div>
         </div>
       </div>
