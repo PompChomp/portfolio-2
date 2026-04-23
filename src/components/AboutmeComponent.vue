@@ -9,7 +9,7 @@
         <div class="flex justify-between w-4/5 flex-col gap-4">
           <p class="text-secondary text-lg font-normal">Hello! My name is Vid Richard Hana. I am an international student from Hungary now studying at Syddansk Erhvervsakademi as a multimedia designer.
             I have a passion for creative work and I am always eager to learn new skills and explore new ideas. I am a creative problem solver and enjoy working on projects that challenge me.
-            In my free time, I enjoy playing video games, watching movies.
+            In my free time, I enjoy playing video games and watching movies.
           </p>
           <div class="flex justify-start flex-col sm:flex-row text-center gap-4 w-full">
             <a :href="cvPdfHref" download="Vid_Richard_Hana_CV.pdf" class="text-primary border-2 border-primary p-2 bg-secondary rounded-md hover:bg-primary hover:text-secondary transition-colors duration-300"> Download CV </a>

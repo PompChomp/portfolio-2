@@ -31,7 +31,7 @@ export const useWorks = () => {
             name: "Brothers Lionheart Play promotion",
             type: "Web Design",
             shortdescription: "The coding of the video section for the Brothers Lionheart play website.",
-            longdescription: "Design of the website video section for the Brothers Lionheart play and the coding of the said website section. The website section was coded using HTML and CSS.",   
+            longdescription: "Design of the website video section for the Brothers Lionheart play and the coding of the said website section. The website section was coded using HTML and CSS.",
             link: "https://github.com/gergopinter77-lgtm/1st-semester-exam-project-BrotherLionheart",
             time: "2025",
             imageURL: Musikhuset,
@@ -40,7 +40,7 @@ export const useWorks = () => {
             name: "Wellcome to Esbjerg",
             type: "Video Editing",
             shortdescription: "A video about Esbjerg, made for school practice.",
-            longdescription: "A video about Esbjerg, made for school practice. The video showcases the city's attractions and highlights its unique character. The project was made using Adobe Premiere Pro.",   
+            longdescription: "A video about Esbjerg, made for school practice. The video showcases some of the city's attractions and highlights. The project was made using Adobe Premiere Pro.",
             link: "https://youtu.be/YJp9r2SSCsU",
             time: "2025",
             imageURL: esbjerg,
@@ -49,13 +49,13 @@ export const useWorks = () => {
             name: "Saint Patrick's day infographic",
             type: "Design",
             shortdescription: "An infographic about Saint Patrick's day, made for school practice.",
-            longdescription: "An infographic about Saint Patrick's day, made for school practice. It includes information about the history of the holiday, as well as some fun facts and traditions.",
+            longdescription: "An infographic about Saint Patrick's day, made for school practice. It includes information about the holiday, as well as some fun facts and america specific practices.",
             link: Infographic,
             time: "2026",
             imageURL: Infographicpng,
         }
     ])
-    
+
 
     return{
         works
