@@ -13,9 +13,12 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
+    "@vueframe/vueframe": "^3.0.9",
     "tailwindcss": "^4.2.2",
+    "v-video-embed": "^1.0.8",
     "vue": "^3.5.31",
-    "vue-router": "^5.0.4"
+    "vue-router": "^5.0.4",
+    "vue-youtube-embed": "^2.2.2"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

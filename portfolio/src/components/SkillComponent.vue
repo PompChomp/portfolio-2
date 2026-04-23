@@ -1,5 +1,5 @@
 <template>
-    <div class=" grid grid-cols-12 w-full h-full min-h-75 bg-primary border-b-2 border-secondary">
+    <div class=" grid grid-cols-12 w-full h-full min-h-75 bg-primary ">
         <div class="col-start-2 col-span-10 w-full ">
             <div>
                 <h1 class="text-5xl font-bold text-secondary py-10">Skills</h1>
@@ -35,18 +35,8 @@
     </div>
 </template>
 
-
-
-
-
-
-
-
-
 <script setup>
 </script>
-
-
 
 <style scoped>
 </style>
